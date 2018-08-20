@@ -1,0 +1,26 @@
+# 页面底部外部链接列表
+## 友情链接
+friend_links:
+  - name: skapp主题
+    desc: hexo-theme-skapp
+    link: https://github.com/Mrminfive/hexo-theme-skapp
+  - name: gitalk评论插件
+    desc: gitalk
+    link: https://github.com/gitalk/gitalk
+  - name: 阿里云
+    desc: 阿里云商品售卖定价等配置平台
+    link: https://www.aliyun.com/
+  - name: 云栖大会
+    desc: 云栖大会购票系统
+    link: https://yunqi.aliyun.com/2018/hangzhou/index?spm=a2c4e.11165380.1086863.2.3cbb3f8fKy7rai
+## 构建工具
+build_tools:
+  - name: Hexo
+    desc: Blog Framework
+    link: https://hexo.io/
+  - name: Sass
+    desc: Syntactically Awesome StyleSheets
+    link: http://sass-lang.com/
+  - name: Swig
+    desc: JavaScript Template Engine
+    link: http://node-swig.github.io/swig-templates/
